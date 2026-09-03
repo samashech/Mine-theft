@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minetheft</string>
+    <string name="device_admin_label">Minetheft Lock Screen Admin</string>
+    <string name="device_admin_description">Used to lock the screen upon anomaly detection.</string>
+</resources>
